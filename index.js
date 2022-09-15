@@ -24,7 +24,7 @@ const levels = {
   10500: "OverLord of stalking",
   20500: "kiler of Rae",
   30500: "Why did you watch Rae for 8 hours"
-  40500: "if your still here you are a Lover for Rae
+  40500: "if your still here you are a Lover for Rae"
 }
 
 const startTime = Date.now();
