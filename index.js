@@ -6,24 +6,25 @@ const pugDimensions = { width: 353 * 1.2, height: 325 * 1.2 };
 
 
 const levels = {
-  5: "Sr Assistant",
-  10: "Jr Honoror",
-  15: "Master Honoror",
-  35: "S Tier Honoror",
-  65: "Junior Acolyte",
-  105: "Acolyte",
-  150: "Senior Acolyte",
-  250: "Priest",
-  450: "Sage",
+  5: "spectator",
+  10: "small creep",
+  15: "creep",
+  35: "Creeper",
+  65: "Junior stalker",
+  105: "stalker",
+  150: "Senior Stalker",
+  250: "King stalk",
+  450: "voyeur",
   650: "Hermit",
-  1000: "Senior Hermit",
-  1500: "CEO",
-  2500: "Pope",
-  3500: "Underlord",
-  4500: "Lord",
-  10500: "OverLord",
-  20500: "King",
-  30500: "Anunnaki"
+  1000: "peeping Tom",
+  1500: "CEO of stalking",
+  2500: "junior peeping Tom",
+  3500: "Upeeping Tom",
+  4500: "Lord stalker",
+  10500: "OverLord of stalking",
+  20500: "kiler of Rae",
+  30500: "Why did you watch Rae for 8 hours"
+  40500: "if your still here you are a Lover for Rae
 }
 
 const startTime = Date.now();
