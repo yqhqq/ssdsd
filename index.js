@@ -33,7 +33,7 @@ canvas.height = window.innerHeight;
 context.translate(window.innerWidth / 2, window.innerHeight / 2);
 
 const image = new Image();
-image.src = "https://mail.google.com/mail/u/0?ui=2&ik=417e6cb271&attid=0.1&permmsgid=msg-a:r-7826934705901696770&th=183421b4b04e5a13&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-7oUDgCjs7Ps4tHzciSIXc-m8W9DzVSTquGk_Js7uEW3kYjfO-Sc78YLg-gU4ikIZ70tG4oTi-lwTdJEPij7j_Ows2dCJPMlowu7J_2whybyyO6exAzZjd0xc&disp=emb&realattid=ii_l83awmso0"; // Photo credit to Matthew Henry (https://unsplash.com/photos/U5rMrSI7Pn4)
+image.src = "IMG_20220920_124206-removebg-preview-removebg-preview-removebg-preview.png"; // Photo credit to Matthew Henry (https://unsplash.com/photos/U5rMrSI7Pn4)
 
 const loopingPugs = 40; // 125 pugs required to cover a full 4K television screen. Tested via Firefox DevTools
 const offsetDistance = 120;
